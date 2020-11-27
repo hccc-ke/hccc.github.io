@@ -97,4 +97,70 @@
             </div>
         </div>
     </section>
+    <section class="ls section_padding_top_130 section_padding_bottom_130">
+        <div class="container">
+            <div class="row">
+                <h2 class="section_header">The Team</h2>
+                <hr class="divider_30_1">
+                <div class="col-sm-12">
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12">
+                        <div class="vertical-item content-padding with_shadow text-center">
+                            <div class="item-media team-img">
+                                <img src="/assets/images/team/daniel.jpeg" alt="Rev. Daniel Githuthwa (PHD)">
+                            </div>
+                            <div class="item-content">
+                                <h4 class="bottommargin_5">
+                                    <a href="/team/rev-daniel-githuthwa-phd">Rev. Daniel Githuthwa (PHD)</a>
+                                </h4>
+                                <p class="small-text highlight">PHD in Counseling Psychology</p>
+{{--                                <hr class="divider_30_1">--}}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12">
+                        <div class="vertical-item content-padding with_shadow text-center">
+                            <div class="item-media team-img">
+                                <img src="/assets/images/team/victoria.jpeg" alt="Victoria">
+                            </div>
+                            <div class="item-content">
+                                <h4 class="bottommargin_5">
+                                    <a href="#">Victoria</a>
+                                </h4>
+                                <p class="small-text highlight">B.A in Counseling Psychology</p>
+{{--                                <hr class="divider_30_1">--}}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12">
+                        <div class="vertical-item content-padding with_shadow text-center">
+                            <div class="item-media team-img">
+                                <img src="/assets/images/team/moses.jpeg" alt="Moses">
+                            </div>
+                            <div class="item-content">
+                                <h4 class="bottommargin_5">
+                                    <a href="#">Moses Kimaru</a>
+                                </h4>
+                                <p class="small-text highlight">M.A in Counseling Psychology</p>
+{{--                                <hr class="divider_30_1">--}}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12">
+                        <div class="vertical-item content-padding with_shadow text-center">
+                            <div class="item-media team-img">
+                                <img src="/assets/images/team/one.jpeg" alt="" style="max-height: 300px">
+                            </div>
+                            <div class="item-content">
+                                <h4 class="bottommargin_5">
+                                    <a href="/team/veronica">Veronica</a>
+                                </h4>
+                                <p class="small-text highlight">B.A in Counselling Psychology</p>
+{{--                                <hr class="divider_30_1">--}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 @endsection

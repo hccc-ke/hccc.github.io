@@ -19,7 +19,7 @@
                     <i class="rt-icon2-location2"></i>
                 </div>
                 <p>
-                    P.O.Box 1844-01000 Thika
+                    P.O.Box 95-01030 Gatundu
                     <br> Witeithie Building, 1st floor Room 125,
                     <br> Thika, Kenya
                 </p>

@@ -10,6 +10,13 @@
         <title>{{ $page->title }}</title>
         <link rel="stylesheet" href="{{ mix('css/all.css', 'assets/build') }}">
         <script src="assets/build/js/modernizr-2.6.2.min.js"></script>
+        <style>
+            .team-img {
+                width: 100%; /* You can set the dimensions to whatever you want */
+                height: 350px !important;
+                object-fit: cover;
+            }
+        </style>
     </head>
     <body>
         @yield('body')
