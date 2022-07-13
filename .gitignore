@@ -7,5 +7,5 @@
 npm-debug.log
 yarn-error.log
 /build_staging/
-/build_production/
+# /build_production/
 /source/assets/build/
